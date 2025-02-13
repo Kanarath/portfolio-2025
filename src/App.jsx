@@ -4,10 +4,10 @@ import "./App.css";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
-      <h1>HOLA</h1>
-      </div>
+      <h1 className="text-stroke-blue shadowbox">HOLA</h1>
+    </>
   );
 }
 

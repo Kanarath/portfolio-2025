@@ -6,26 +6,18 @@
 
 
 :root {
-    font-family: 'Russo One', sans-serif;
-    font-size: 18px;
-    font-style: normal;
+  font-family: 'Russo One', sans-serif;
     font-weight: 400;
     line-height: normal;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  border-radius: 25px;
-  background: #000;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+.shadowbox {
+  shadow: 0 0 20px rgba(0, 214, 245, 0.5));
 }
 
 
